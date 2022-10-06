@@ -1,4 +1,4 @@
-### updated info at github.com/tmorg46 or at tmorg.org
+### updated info and materials at github.com/tmorg46 or at tmorg.org
 
 <!--
 **tmorg64/tmorg64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
